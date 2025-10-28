@@ -1,12 +1,12 @@
 {
   "description": "Fui programador durante mais de 35 anos. Agora estou no descanso, mas sempre curioso com as novas tecnologias",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Programação em C#",
+    "Base de dados Sql Server",
+    "Sharepoint",
+    "Biztalk",
+    "Blazor",
+    "Analise de Sistemas"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
 }
