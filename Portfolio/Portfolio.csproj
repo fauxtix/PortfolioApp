@@ -14,7 +14,7 @@
   </ItemGroup>
 	
   <ItemGroup>
-    <Content Update="wwwroot\images\MyPhoto.jpg">
+    <Content Update="wwwroot\images\myphoto.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Update="wwwroot\sample-data\aboutme.json">
